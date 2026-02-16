@@ -1,0 +1,350 @@
+﻿station_name,system,latitude,longitude,distance_to_kremlin_km,osm_type,osm_id,railway,public_transport,station_tag
+Авиамоторная,metro,55.7539271,37.718992,6.355,node,7340764980,station,station,subway
+Автозаводская,mcd,55.706266,37.6626114,5.819,relation,6604095,facility,stop_area,
+Академическая,metro,55.6878077,37.5735148,7.653,node,282413851,station,station,subway
+Александровский сад,metro,55.7524027,37.6086825,0.553,node,253228506,station,station,subway
+Алексеевская,metro,55.8090891,37.6390056,6.486,node,5202107562,station,station,subway
+Алма-Атинская,metro,55.6327995,37.765935,16.196,node,2080924763,station,station,subway
+Алтуфьево,metro,55.8979224,37.5873584,16.332,node,296957238,station,station,subway
+Аминьевская,mcd,55.6980283,37.4696642,11.034,node,87702773,stop,stop_position,
+Андроновка,mcd,55.7470069,37.7379068,7.556,relation,6604096,facility,stop_area,
+Аникеевка,mcd,55.8320233,37.2200313,26.391,node,253438572,stop,stop_position,
+Аннино,metro,55.5825315,37.5965311,18.892,node,296953140,station,station,subway
+Апрелевка,mcd,55.5501343,37.0668123,41.202,node,420464922,stop,stop_position,
+Арбатская,metro,55.7519737,37.6011599,1.022,relation,1407470,,stop_area,
+Аэропорт,metro,55.8003966,37.5331501,7.534,node,266835847,station,station,subway
+Аэропорт Внуково,metro,55.607309,37.2872762,26.221,node,11171729958,station,station,subway
+Бабушкинская,metro,55.8696342,37.6641097,13.398,node,60660469,station,station,subway
+Багратионовская,metro,55.7437275,37.4977375,7.552,relation,1463424,,stop_area,
+Баковка,mcd,55.6826106,37.3146373,20.479,node,1994671348,stop,stop_position,
+Балтийская,mcd,55.8254982,37.4957255,11.167,relation,6604119,facility,stop_area,
+Баррикадная,metro,55.7611309,37.5793093,2.595,node,296959510,station,station,subway
+Бауманская,metro,55.7730392,37.6805494,4.585,node,242546356,station,station,subway
+Беговая,metro,55.7737161,37.5466565,5.046,node,296959508,station,station,subway
+Белокаменная,mcd,55.8294535,37.7021926,10.108,relation,6604087,facility,stop_area,
+Беломорская,metro,55.8649644,37.4748773,15.399,node,6147634222,station,station,subway
+Белорусская,metro,55.7761384,37.5840675,3.401,node,1158396469,station,station,subway
+Беляево,metro,55.6427774,37.5256804,13.441,node,282416839,station,station,subway
+Бескудниково,mcd,55.8825159,37.5676437,14.841,node,1994411885,stop,stop_position,
+Бибирево,metro,55.8838707,37.6035539,14.687,node,296957239,station,station,subway
+Библиотека имени Ленина,metro,55.7512323,37.6101708,0.467,node,278692958,station,station,subway
+Битца,mcd,55.5712944,37.6115381,20.1,node,1990631972,stop,stop_position,
+Битцевский парк,metro,55.6002393,37.5563789,17.307,node,2591402980,station,station,subway
+Борисово,metro,55.6333039,37.7437524,15.391,node,1527999919,station,station,subway
+Боровицкая,metro,55.7509718,37.607057,0.664,node,296953128,station,station,subway
+Боровское шоссе,metro,55.6477505,37.3704228,19.342,node,5868122988,station,station,subway
+Ботанический сад,metro,55.8448445,37.6382462,10.402,node,268521591,station,station,subway
+Братиславская,metro,55.659739,37.7506688,13.225,node,333159878,station,station,subway
+Бульвар Адмирала Ушакова,metro,55.5454337,37.5432114,23.44,node,296932668,station,station,subway
+Бульвар Дмитрия Донского,metro,55.5692452,37.5768693,20.483,node,309741697,station,station,subway
+Бульвар Рокоссовского,metro,55.8146824,37.73434,10.096,node,265949954,station,station,subway
+Бунинская аллея,metro,55.5381467,37.5165467,24.611,node,296932673,station,station,subway
+Бутово,mcd,55.5413497,37.5705273,23.61,node,1990631974,stop,stop_position,
+Бутырская,metro,55.8133726,37.6025285,6.886,node,4847996860,station,station,subway
+Быково,mcd,55.6266603,38.0713874,31.68,node,1994609590,stop,stop_position,
+ВДНХ,metro,55.8209553,37.6412006,7.807,node,5202107574,station,station,subway
+Вавиловская,metro,55.6848912,37.5408941,8.874,node,13143504742,station,station,subway
+Варшавская,metro,55.6533344,37.6195024,10.974,node,10702113003,station,station,subway
+Верхние Лихоборы,metro,55.8561131,37.5613445,12.095,node,5482407019,station,station,subway
+Вешняки,mcd,55.7221066,37.7990494,11.842,node,1994609591,stop,stop_position,
+Владыкино,mcd,55.8473295,37.5912752,10.724,relation,6604129,facility,stop_area,
+Внуково,mcd,55.6490256,37.2695208,24.629,node,11164979112,stop,stop_position,
+Водники,mcd,55.9526356,37.5123561,23.252,node,1994411892,stop,stop_position,
+Водный стадион,metro,55.8400589,37.4867105,12.754,node,266835844,station,station,subway
+Войковская,metro,55.819052,37.4980181,10.553,node,266835845,station,station,subway
+Волгоградский проспект,metro,55.7252386,37.6868906,5.267,node,253016892,station,station,subway
+Волжская,metro,55.6908257,37.7531007,10.882,node,296949283,station,station,subway
+Волоколамская,mcd,55.8320853,37.3824727,17.179,node,7001069102,stop,stop_position,
+Воробьёвы горы,metro,55.7103322,37.559289,5.897,node,297335182,station,station,subway
+Воронцовская,metro,55.6588351,37.5394795,11.457,node,9315693019,station,station,subway
+Выхино,mcd,55.7169779,37.8144939,12.934,node,1994609605,stop,stop_position,
+Генерала Тюленева,metro,55.6262046,37.4857715,16.245,node,12163102808,station,station,subway
+Говорово,metro,55.6595519,37.417239,16.222,node,5868122990,station,station,subway
+Гражданская,mcd,55.8055353,37.553214,7.181,node,1990631977,stop,stop_position,
+Грачёвская,mcd,55.8697333,37.5093456,14.73,node,1994671382,stop,stop_position,
+Давыдково,metro,55.7151446,37.4517411,11.158,relation,13592294,,stop_area,
+Дегунино,mcd,55.8659138,37.5730551,12.965,node,143427820,stop,stop_position,
+Деловой центр,metro,55.7500874,37.5413666,4.769,node,253045735,station,station,subway
+Депо,mcd,55.6742199,37.7280554,11.082,node,1987939213,stop,stop_position,
+Динамо,metro,55.7897397,37.558208,5.598,node,266835848,station,station,subway
+Дмитровская,metro,55.8065606,37.5819074,6.46,node,296956168,station,station,subway
+Добрынинская,metro,55.7291072,37.6244196,2.585,node,294024698,station,station,subway
+Долгопрудная,mcd,55.9401214,37.5199471,21.784,node,1994411902,stop,stop_position,
+Домодедовская,metro,55.6108547,37.7187413,16.932,node,305486163,station,station,subway
+Достоевская,metro,55.7815096,37.6150933,3.282,node,773136972,station,station,subway
+Дубровка,metro,55.7192085,37.6755406,5.149,node,296947185,station,station,subway
+Есенинская,mcd,55.5822983,38.18336,40.193,node,1994609867,stop,stop_position,
+Железнодорожная,mcd,55.7523117,38.0089638,24.497,node,1029486502,stop,stop_position,
+Жулебино,metro,55.685438,37.8562939,16.688,node,2525101862,station,station,subway
+ЗИЛ,metro,55.6969336,37.6452346,6.367,node,13141233387,station,station,subway
+Зеленоград-Крюково,mcd,55.9801375,37.1738129,37.547,node,1994411908,stop,stop_position,
+Зорге,mcd,55.7885168,37.5047742,8.135,relation,6604111,facility,stop_area,
+Зюзино,metro,55.6557778,37.5735524,11.051,node,9315693017,station,station,subway
+Зябликово,metro,55.6122352,37.745179,17.484,node,1527999927,station,station,subway
+Измайлово,mcd,55.7894505,37.7444608,8.966,relation,6604088,facility,stop_area,
+Измайловская,metro,55.7877895,37.7816533,11.011,relation,1404531,,stop_area,
+Ильинская,mcd,55.6162868,38.1001821,33.813,node,1994609627,stop,stop_position,
+Ипподром,mcd,55.5604343,38.2389314,44.424,node,1994609870,stop,stop_position,
+Калитники,mcd,55.7336601,37.7026325,5.707,node,61689457,stop,stop_position,
+Калужская,metro,55.657091,37.5405263,11.605,node,259786804,station,station,subway
+Кантемировская,metro,55.6357353,37.6565408,13.16,node,308993566,station,station,subway
+Каховская,metro,55.6529025,37.5984294,11.086,node,314679443,station,station,subway
+Каширская,metro,55.6550857,37.6485829,10.953,node,10852613373,station,station,subway
+Киевская,metro,55.7447266,37.565506,3.354,node,309745114,station,station,subway
+Китай-город,metro,55.7555863,37.6330592,1.051,node,5176322726,station,station,subway
+Кленовый бульвар,metro,55.6744865,37.6807341,9.488,node,10702213023,station,station,subway
+Кожуховская,metro,55.7075865,37.6846176,6.487,node,296949274,station,station,subway
+Кокошкино,mcd,55.5997091,37.1712292,32.708,node,5404904550,stop,stop_position,
+Коломенская,metro,55.6784809,37.6639248,8.679,node,292147581,station,station,subway
+Коммунарка,metro,55.574632,37.4679907,21.84,node,12460750156,station,station,subway
+Комсомольская,metro,55.7745807,37.6544906,3.413,node,297148038,station,station,subway
+Коньково,metro,55.6331469,37.5189769,14.589,node,1221839292,station,station,subway
+Коптево,mcd,55.8399517,37.5209006,11.491,relation,6604122,facility,stop_area,
+Корниловская,metro,55.5983956,37.4789891,19.163,node,12460750155,station,station,subway
+Косино,mcd,55.7058552,37.8473764,15.282,node,1994609640,stop,stop_position,
+Котельники,metro,55.6742176,37.8585133,17.4,node,3706464707,station,station,subway
+Красково,mcd,55.6499411,37.9822933,25.521,node,141132842,stop,stop_position,
+Красногвардейская,metro,55.613694,37.7444351,17.318,node,300120212,station,station,subway
+Красногорская,mcd,55.8147575,37.3032054,20.853,node,1194138018,stop,stop_position,
+Краснопресненская,metro,55.761185,37.577329,2.712,node,309744779,station,station,subway
+Красносельская,metro,55.780356,37.6676557,4.446,node,267335089,station,station,subway
+Красные Ворота,metro,55.7690244,37.6489874,2.73,node,6938823554,station,station,subway
+Красный Балтиец,mcd,55.815476,37.5249396,9.126,node,2000431024,stop,stop_position,
+Красный Строитель,mcd,55.5903807,37.6152783,17.974,node,1994527060,stop,stop_position,
+Кратово,mcd,55.5917576,38.1601257,38.41,node,1994609646,stop,stop_position,
+Крестьянская Застава,metro,55.7331695,37.6674776,3.766,node,297773322,station,station,subway
+Кропоткинская,metro,55.7454302,37.603807,1.128,node,278692957,station,station,subway
+Крылатское,metro,55.7565949,37.4081393,13.11,node,6939665011,station,station,subway
+Крымская,metro,55.689732,37.6093943,6.945,node,13141822040,station,station,subway
+Крёкшино,mcd,55.5777683,37.1097941,37.274,node,1991442438,stop,stop_position,
+Кузнецкий Мост,metro,55.7607508,37.6261429,1.111,node,252934400,station,station,subway
+Кузьминки,metro,55.7056021,37.7657844,10.623,node,253016894,station,station,subway
+Кунцевская,mcd,55.7268789,37.450403,10.827,node,1994650458,stop,stop_position,
+Курская,metro,55.7580191,37.6584192,2.646,node,5202107570,station,station,subway
+Курьяново,mcd,55.6498721,37.7012902,12.513,node,7658089874,stop,stop_position,
+Кусково,mcd,55.7396813,37.7953788,11.217,node,1994682645,stop,stop_position,
+Кутузовская,mcd,55.7404218,37.5339416,5.386,relation,6604098,facility,stop_area,
+Кучино,mcd,55.7520586,37.9547149,21.102,node,2924361536,stop,stop_position,
+Левобережная,mcd,55.8869629,37.468802,17.647,node,1994671351,stop,stop_position,
+Ленинский проспект,metro,55.7076167,37.5862116,5.312,node,282411334,station,station,subway
+Лермонтовский проспект,metro,55.7016254,37.8519732,15.715,node,2525101863,station,station,subway
+Лесной Городок,mcd,55.632252,37.2184402,28.335,node,10596302226,stop,stop_position,
+Лесопарковая,metro,55.5820975,37.5768918,19.066,node,2591395115,station,station,subway
+Лефортово,metro,55.7647338,37.7067382,5.76,node,7340764979,station,station,subway
+Лианозово,metro,55.898115,37.544663,16.87,node,11174673551,station,station,subway
+Лихоборы,mcd,55.8481467,37.5517223,11.452,relation,6604123,facility,stop_area,
+Лобня,mcd,56.0135083,37.4848257,30.23,node,1994411915,stop,stop_position,
+Ломоносовский проспект,metro,55.7071424,37.5162362,8.069,node,4737155709,station,station,subway
+Лубянка,metro,55.7598728,37.6278554,1.087,node,267335316,station,station,subway
+Лужники,mcd,55.7209936,37.5600743,4.983,relation,6604099,facility,stop_area,
+Лухмановская,metro,55.70851,37.9010164,18.399,node,6518539851,station,station,subway
+Люберцы I,mcd,55.6826426,37.8959367,19.07,node,1994609656,stop,stop_position,
+Люблино,mcd,55.6852542,37.7337909,10.401,node,1988601949,stop,stop_position,
+Малаховка,mcd,55.6453482,38.0073315,27.156,node,1994609662,stop,stop_position,
+Марк,mcd,55.9033963,37.5393921,17.525,node,1994411918,stop,stop_position,
+Марксистская,metro,55.7413164,37.6535345,2.55,node,276191577,station,station,subway
+Марьина Роща,metro,55.7955236,37.6163058,4.838,node,773136965,station,station,subway
+Марьино,metro,55.6500158,37.7431467,13.807,node,296949290,station,station,subway
+Матвеевская,mcd,55.7045428,37.4815474,10.017,node,2012790829,stop,stop_position,
+Маяковская,metro,55.7701709,37.5950872,2.457,node,291687455,station,station,subway
+Медведково,metro,55.8871767,37.66155,15.278,node,60660466,station,station,subway
+Менделеевская,metro,55.7809613,37.601981,3.361,node,296956170,station,station,subway
+Мещерская,mcd,55.6668476,37.4245685,15.355,node,9434947978,stop,stop_position,
+Минская,mcd,55.723977,37.5016225,7.896,node,9635578847,stop,stop_position,
+Митино,metro,55.8457543,37.3622259,19.058,node,596129560,station,station,subway
+Митьково,mcd,55.7855478,37.6714056,5.027,node,12088901166,stop,stop_position,
+Мичуринец,mcd,55.6462115,37.3155462,22.281,node,8948615322,stop,stop_position,
+Мичуринский проспект,metro,55.6882968,37.4851908,10.903,node,9315693028,station,station,subway
+Мнёвники,metro,55.7611845,37.471405,9.198,node,8581944519,station,station,subway
+Молжаниново,mcd,55.9240828,37.3813693,24.154,node,903977153,stop,stop_position,
+Молодёжная,metro,55.7408014,37.4169166,12.616,relation,447050,,stop_area,
+Москва-Сити,mcd,55.7476154,37.532236,5.358,relation,6604109,facility,stop_area,
+Москва-Товарная,mcd,55.7451635,37.6892589,4.555,node,1994609672,stop,stop_position,
+Москворечье,mcd,55.6412879,37.6900308,13.125,node,1987940556,stop,stop_position,
+Моссельмаш,mcd,55.8617691,37.5285249,13.41,node,11121706986,stop,stop_position,
+Мякинино,metro,55.8252026,37.3852949,16.642,node,5202107566,station,station,subway
+Нагатинская,metro,55.6829727,37.6224144,7.684,node,296953132,station,station,subway
+Нагатинский Затон,metro,55.6843314,37.7043027,9.285,node,10702213026,station,station,subway
+Нагорная,metro,55.6719433,37.6102741,8.916,node,296953133,station,station,subway
+Народное Ополчение,metro,55.7757351,37.4857311,8.655,node,8581944518,station,station,subway
+Нахабино,mcd,55.8416088,37.1849263,28.815,node,2001755277,stop,stop_position,
+Нахимовский проспект,metro,55.6626511,37.6056223,9.966,node,296953134,station,station,subway
+Некрасовка,metro,55.7028909,37.9281784,20.206,node,6518539852,station,station,subway
+Немчиновка,mcd,55.7158871,37.375323,15.685,node,1994650459,stop,stop_position,
+Нижегородская,mcd,55.7333388,37.7298227,7.331,node,908057592,stop,stop_position,
+Никольское,mcd,55.7596046,37.8971254,17.517,node,2261675803,stop,stop_position,
+Новаторская,metro,55.6715854,37.5213865,10.782,node,12163102815,station,station,subway
+Новогиреево,metro,55.751769,37.8167454,12.468,node,255744331,station,station,subway
+Новодачная,mcd,55.9243001,37.5279644,19.955,node,1994411921,stop,stop_position,
+Новокосино,metro,55.7450867,37.8637729,15.432,node,1890426555,station,station,subway
+Новокузнецкая,metro,55.7414344,37.6292018,1.387,node,292143796,station,station,subway
+Новомосковская,metro,55.5605675,37.4680062,23.263,node,6560279948,station,station,subway
+Новопеределкино,metro,55.639625,37.3551039,20.654,node,5868122986,station,station,subway
+Новоподрезково,mcd,55.9362456,37.3526631,26.325,node,12758107978,stop,stop_position,
+Новослободская,metro,55.7798525,37.6034748,3.216,node,297366493,station,station,subway
+Новохохловская,mcd,55.7250528,37.7127426,6.674,node,5890300570,stop,stop_position,
+Новоясеневская,metro,55.6009942,37.554139,17.257,node,291712231,station,station,subway
+Новые Черёмушки,metro,55.6702787,37.5546984,9.904,node,259786806,station,station,subway
+Одинцово,mcd,55.6724939,37.2826795,22.762,node,1994671358,stop,stop_position,
+Озёрная,metro,55.6705052,37.4487297,13.926,node,5868122985,station,station,subway
+Окружная,mcd,55.8488487,37.571379,11.146,relation,6604124,facility,stop_area,
+Окская,metro,55.718342,37.7817628,10.944,node,7335380503,station,station,subway
+Октябрьская,metro,55.7304961,37.6109093,2.429,node,277499853,station,station,subway
+Октябрьское Поле,metro,55.7933663,37.4938123,8.999,node,309748905,station,station,subway
+Ольгино,mcd,55.7517749,37.9787453,22.606,node,9644463294,stop,stop_position,
+Ольховая,metro,55.568621,37.4593593,22.678,node,6560279949,station,station,subway
+Опалиха,mcd,55.8228104,37.2485836,24.371,node,2001755289,stop,stop_position,
+Орехово,metro,55.6131433,37.6949724,16.188,node,308993125,station,station,subway
+Останкино,mcd,55.8175355,37.6032893,7.339,node,11121706988,stop,stop_position,
+Остафьево,mcd,55.4855942,37.5548181,29.886,node,7158697371,stop,stop_position,
+Отдых,mcd,55.6012418,38.1369876,36.633,node,1994609705,stop,stop_position,
+Отрадное,metro,55.8631775,37.6046508,12.386,node,296957241,station,station,subway
+Охотный ряд,metro,55.7577723,37.6165101,0.642,node,267335315,station,station,subway
+Очаково,mcd,55.6836461,37.4514754,12.882,node,1159824900,stop,stop_position,
+Павелецкая,metro,55.7323172,37.6381483,2.544,node,292019996,station,station,subway
+Павшино,mcd,55.8148495,37.3395389,18.732,node,2001755292,stop,stop_position,
+Панки,mcd,55.6689705,37.9222962,21.21,node,1994609731,stop,stop_position,
+Парк Культуры,metro,55.7354915,37.5942726,2.344,node,5176445915,station,station,subway
+Парк Победы,metro,55.7365232,37.518219,6.449,node,2950850833,station,station,subway
+Партизанская,metro,55.788503,37.7509929,9.283,node,68916801,station,station,subway
+Пенягино,mcd,55.823377,37.3614787,17.865,node,7005963078,stop,stop_position,
+Первомайская,metro,55.7947265,37.7993959,12.328,node,2692882978,station,station,subway
+Переделкино,mcd,55.6564193,37.3556006,19.552,node,10292743057,stop,stop_position,
+Перерва,mcd,55.6608591,37.7162279,11.875,node,1540441959,stop,stop_position,
+Перово,mcd,55.7357086,37.7642851,9.365,node,1994609738,stop,stop_position,
+Петровский парк,metro,55.7919222,37.5570925,5.827,node,5436412993,station,station,subway
+Петровско-Разумовская,metro,55.8346874,37.5748248,9.571,node,5202080141,station,station,subway
+Печатники,metro,55.6946059,37.727363,9.386,node,10702442752,station,station,subway
+Пионерская,metro,55.7359875,37.4671358,9.579,node,244036856,station,station,subway
+Планерная,metro,55.8606544,37.4365264,16.547,node,296959502,station,station,subway
+Площадь Гагарина,mcd,55.7072777,37.5858929,5.355,relation,6604100,facility,stop_area,
+Площадь Ильича,metro,55.7471964,37.6831971,4.146,node,276191299,station,station,subway
+Площадь Революции,metro,55.7566512,37.6217842,0.58,node,242546475,station,station,subway
+Площадь трёх вокзалов,mcd,55.7761799,37.6514022,3.423,node,61088516,stop,stop_position,
+Плющево,mcd,55.7307855,37.774042,10.079,node,1994609753,stop,stop_position,
+Победа,mcd,55.5660633,37.0927752,38.87,node,420464923,stop,stop_position,
+Подольск,mcd,55.4318122,37.5653218,35.756,node,2000351184,stop,stop_position,
+Подрезково,mcd,55.9422482,37.3321552,27.653,node,12758107976,stop,stop_position,
+Поклонная,mcd,55.7321022,37.5207868,6.446,node,11179152560,stop,stop_position,
+Покровское,mcd,55.6027681,37.6319043,16.621,node,1994609769,stop,stop_position,
+Полежаевская,metro,55.7775087,37.5192899,6.766,node,296959507,station,station,subway
+Полянка,metro,55.7381678,37.6171996,1.541,node,312816773,station,station,subway
+Потапово,metro,55.5526401,37.4926212,23.514,node,12157560726,station,station,subway
+Пражская,metro,55.6123741,37.6045238,15.55,node,296953138,station,station,subway
+Преображенская площадь,metro,55.7963698,37.7153466,7.859,node,265949958,station,station,subway
+Прокшино,metro,55.5862179,37.4338591,21.738,node,6560279950,station,station,subway
+Пролетарская,metro,55.731857,37.6658787,3.768,node,253016891,station,station,subway
+Проспект Вернадского,metro,55.6784309,37.503929,10.843,node,9315693025,station,station,subway
+Проспект Мира,metro,55.7796332,37.6317532,3.197,node,293799708,station,station,subway
+Профсоюзная,metro,55.6779304,37.5629043,8.92,node,282414382,station,station,subway
+Пушкинская,metro,55.7654281,37.6074165,1.619,node,362156015,station,station,subway
+Пыхтино,metro,55.6245026,37.295668,24.657,node,11171697213,station,station,subway
+Пятницкое шоссе,metro,55.856143,37.3542024,20.119,node,2101832212,station,station,subway
+Рабочий Посёлок,mcd,55.7269149,37.4182875,12.779,way,647838802,platform,platform,
+Рабочий посёлок,mcd,55.7268062,37.4201198,12.67,node,1994650461,stop,stop_position,
+Раменки,metro,55.6975607,37.4985423,9.6,node,4737155710,station,station,subway
+Раменское,mcd,55.5651152,38.2253851,43.427,node,1994609791,stop,stop_position,
+Рассказовка,metro,55.6340295,37.3350858,22.032,node,5868122987,station,station,subway
+Реутов,mcd,55.7515379,37.8556462,14.903,node,8047546764,stop,stop_position,
+Речной вокзал,metro,55.8550132,37.4762129,14.461,node,266835841,station,station,subway
+Рижская,mcd,55.7924751,37.6406442,4.725,node,1994609803,stop,stop_position,
+Римская,metro,55.7463418,37.683251,4.163,node,296947177,station,station,subway
+Ростокино,mcd,55.8395395,37.6672174,10.216,relation,6604089,facility,stop_area,
+Румянцево,metro,55.6329538,37.4415854,17.229,node,3943961770,station,station,subway
+Рязанский проспект,metro,55.716947,37.7933151,11.678,node,253017004,station,station,subway
+Савёловская,metro,55.7924879,37.5888159,4.844,node,296956169,station,station,subway
+Саларьево,metro,55.621922,37.4241868,18.871,node,4006225428,station,station,subway
+Салтыковская,mcd,55.7575327,37.9231141,19.133,node,11164979107,stop,stop_position,
+Санино,mcd,55.5840804,37.1382194,35.386,node,7297092690,stop,stop_position,
+Свиблово,metro,55.8552129,37.652706,11.683,node,268521588,station,station,subway
+Севастопольская,metro,55.6526736,37.598434,11.112,node,296953135,station,station,subway
+Селигерская,metro,55.8666119,37.5471803,13.478,node,5482245444,station,station,subway
+Семёновская,metro,55.7833072,37.7212818,7.365,node,68937012,station,station,subway
+Серп и молот,mcd,55.7481855,37.6821653,4.069,node,3221716725,stop,stop_position,
+Серпуховская,metro,55.7279529,37.6248289,2.716,node,296953130,station,station,subway
+Сетунь,mcd,55.7235429,37.3968456,14.171,node,1994650468,stop,stop_position,
+Силикатная,mcd,55.4704346,37.5554754,31.553,node,676625343,stop,stop_position,
+Сколково,mcd,55.7000483,37.3426806,18.153,node,7003229444,stop,stop_position,
+Славянский бульвар,mcd,55.7302498,37.4723265,9.404,node,7569212570,stop,stop_position,
+Смоленская,metro,55.7476681,37.5829853,2.214,relation,1472033,,stop_area,
+Сокол,metro,55.805267,37.5150534,8.723,node,5202107576,station,station,subway
+Соколиная Гора,mcd,55.7709025,37.746328,8.329,relation,6604090,facility,stop_area,
+Сокольники,metro,55.7888168,37.6802525,5.67,node,267334996,station,station,subway
+Солнечная,mcd,55.6572335,37.3851736,17.971,node,261755379,stop,stop_position,
+Солнцево,metro,55.649569,37.3911002,18.194,node,5868122989,station,station,subway
+Сортировочная,mcd,55.7634222,37.7207334,6.582,node,2000431031,stop,stop_position,
+Спартак,metro,55.8183044,37.4357519,13.544,node,5202107560,station,station,subway
+Спортивная,metro,55.7233833,37.5642133,4.612,node,278693055,station,station,subway
+Сретенский бульвар,metro,55.7669878,37.6400865,2.183,node,666528523,station,station,subway
+Стахановская,metro,55.7270183,37.7532484,8.941,node,7335523472,station,station,subway
+Стрешнево,mcd,55.813351,37.4870988,10.63,relation,6604118,facility,stop_area,
+Строгино,metro,55.8037017,37.4030833,14.588,node,5202107564,station,station,subway
+Студенческая,metro,55.7388299,37.5484101,4.566,node,241158415,station,station,subway
+Сухаревская,metro,55.7729551,37.6312038,2.48,node,277499849,station,station,subway
+Сходненская,metro,55.8504805,37.4397738,15.596,node,309750154,station,station,subway
+Сходня,mcd,55.9487699,37.3025044,29.414,node,1988289129,stop,stop_position,
+Таганская,metro,55.741665,37.6513234,2.41,node,296045315,station,station,subway
+Тверская,metro,55.7648953,37.606313,1.593,node,292144111,station,station,subway
+Театральная,metro,55.7575071,37.6191912,0.619,node,292143794,station,station,subway
+Текстильщики,metro,55.7070532,37.728473,8.561,node,10702471714,station,station,subway
+Терехово,metro,55.748029,37.4596435,9.889,node,9315693039,station,station,subway
+Тестовская,mcd,55.7571203,37.5329984,5.318,node,1994650470,stop,stop_position,
+Технопарк,metro,55.6936232,37.6644353,7.128,node,292148161,station,station,subway
+Тимирязевская,metro,55.8181214,37.5755968,7.803,relation,7588385,,stop_area,
+Толстопальцево,mcd,55.6075617,37.1858649,31.469,node,10068620749,stop,stop_position,
+Томилино,mcd,55.6551464,37.9550964,23.737,node,1994609822,stop,stop_position,
+Третьяковская,metro,55.7412838,37.6273084,1.343,node,493292529,station,station,subway
+Трикотажная,mcd,55.8331719,37.3989672,16.372,node,2001755303,stop,stop_position,
+Тропарёво,metro,55.645857,37.4725258,14.896,node,3224593379,station,station,subway
+Трубная,metro,55.7691136,37.6195511,1.905,node,296944258,station,station,subway
+Тульская,metro,55.7086649,37.6228172,4.833,node,296953131,station,station,subway
+Тургеневская,metro,55.766492,37.637467,2.037,node,277499850,station,station,subway
+Тушинская,metro,55.8267759,37.4370416,14.013,relation,3831798,,stop_area,
+Тютчевская,metro,55.61905,37.4810854,17.08,node,12163102805,station,station,subway
+Тёплый Стан,metro,55.6188619,37.5082183,16.315,node,259785706,station,station,subway
+Угрешская,mcd,55.7181151,37.696762,6.232,relation,6604101,facility,stop_area,
+Удельная,mcd,55.6344998,38.0441796,29.763,node,1994609826,stop,stop_position,
+Улица 1905 года,metro,55.7648611,37.5613413,3.793,node,296959509,station,station,subway
+Улица Академика Янгеля,metro,55.5949862,37.6004358,17.494,node,296953139,station,station,subway
+Улица Горчакова,metro,55.5416949,37.530718,24.013,node,296932670,station,station,subway
+Улица Дмитриевского,metro,55.7101029,37.8802008,17.096,node,6518539850,station,station,subway
+Улица Скобелевская,metro,55.5481082,37.5546254,23.015,node,296932663,station,station,subway
+Улица Старокачаловская,metro,55.5689553,37.5766521,20.517,node,309741829,station,station,subway
+Университет,metro,55.6926632,37.5332847,8.449,node,309752494,station,station,subway
+Университет дружбы народов,metro,55.6479373,37.5071425,13.482,node,12163102812,station,station,subway
+Ухтомская,mcd,55.6986424,37.8642492,16.552,node,1994609830,stop,stop_position,
+Фабричная,mcd,55.5728331,38.2064193,41.969,node,1994609834,stop,stop_position,
+Физтех,metro,55.9216617,37.5465759,19.376,node,11174639393,station,station,subway
+Филатов Луг,metro,55.6015282,37.4074265,21.296,node,6560279951,station,station,subway
+Фили,metro,55.7461266,37.5148273,6.459,node,241158327,station,station,subway
+Филёвский парк,metro,55.7395085,37.4833717,8.509,node,241158259,station,station,subway
+Фирсановская,mcd,55.9601995,37.2512928,32.53,node,11037257950,stop,stop_position,
+Фонвизинская,metro,55.822916,37.5876371,8.101,node,4404057364,station,station,subway
+Фрунзенская,metro,55.7268793,37.57833,3.719,node,278693056,station,station,subway
+Химки,mcd,55.8934978,37.4535192,18.772,node,11121706984,stop,stop_position,
+Хлебниково,mcd,55.9709545,37.5044808,25.345,node,1994411937,stop,stop_position,
+Ховрино,mcd,55.8790097,37.4875714,16.287,node,8166993996,stop,stop_position,
+Хорошёвская,metro,55.7766946,37.5191367,6.737,node,5436404611,station,station,subway
+ЦСКА,metro,55.786561,37.5332007,6.523,node,5436420781,station,station,subway
+Царицыно,metro,55.6214814,37.669238,14.873,node,308993196,station,station,subway
+Цветной бульвар,metro,55.7708721,37.6179101,2.096,node,291689166,station,station,subway
+Черкизовская,metro,55.8038807,37.7450321,9.842,node,265949956,station,station,subway
+Чертановская,metro,55.640455,37.60669,12.424,node,296953136,station,station,subway
+Чеховская,metro,55.7648327,37.609087,1.519,node,296953126,station,station,subway
+Чистые пруды,metro,55.7658711,37.639028,2.046,node,267335317,station,station,subway
+Чкаловская,metro,55.7567019,37.6569978,2.526,node,5202107572,station,station,subway
+Чухлинка,mcd,55.7336576,37.7644123,9.42,node,906641313,stop,stop_position,
+Шаболовская,metro,55.7199872,37.6076956,3.615,node,277499854,station,station,subway
+Шелепиха,mcd,55.7571215,37.5256675,5.774,relation,6604110,facility,stop_area,
+Шереметьевская,mcd,55.9837299,37.4988559,26.807,node,1994411940,stop,stop_position,
+Шипиловская,metro,55.6210274,37.7436392,16.574,node,1527999934,station,station,subway
+Шоссе Энтузиастов,mcd,55.7585945,37.7469809,8.135,relation,6604102,facility,stop_area,
+Щербинка,mcd,55.5104009,37.5622966,27.09,node,203573042,stop,stop_position,
+Щукинская,metro,55.8085784,37.4643262,11.458,relation,7588393,,stop_area,
+Щёлковская,metro,55.8093369,37.7985725,12.993,node,2692905506,station,station,subway
+Электрозаводская,metro,55.7802845,37.7029935,6.203,node,8268702705,station,station,subway
+Юго-Восточная,metro,55.7050362,37.8189764,13.655,node,7339988431,station,station,subway
+Юго-Западная,metro,55.6636469,37.4832189,12.936,node,309752486,station,station,subway
+Южная,metro,55.622256,37.6092188,14.439,node,296953137,station,station,subway
+Ясенево,metro,55.6063062,37.533407,17.039,node,264162888,station,station,subway
+Яхромская,metro,55.8798821,37.5454418,14.913,node,11174673548,station,station,subway

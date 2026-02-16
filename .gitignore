@@ -1,0 +1,51 @@
+# Xcode
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcworkspace
+!default.xcworkspace
+*.xcscheme
+
+# Swift Package Manager
+Packages/
+.swiftpm/xcode/
+.build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# macOS-specific
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# Generated interface
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+.DS_Store
+.DS_Store
+.DS_Store
+.DS_Store
